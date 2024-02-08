@@ -25,6 +25,5 @@ li{
 
 .qualities > li {
    text-align: center;
-   padding: 0.5 rem;
-   padding-inline: 0.2 rem;
+   padding: 0.5rem;
 }
