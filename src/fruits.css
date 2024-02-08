@@ -7,10 +7,6 @@ li {
     flex-direction: column;
 }
 
-.fruit-container>h1 {
-    font-size: medium;
-}
-
 .fruit-list {
     display: flex;
     flex-wrap: wrap;
