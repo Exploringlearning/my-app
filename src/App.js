@@ -22,7 +22,13 @@ function App() {
     desc: "Yellow & green", 
     qualities: ["sweet","sour","Juicy"],
     image: "https://getfreshswansea.co.uk/wp-content/uploads/2020/07/pineapple.jpg"
-    },]
+    },
+    {
+      name: "Guava", 
+      desc: "Yellow & green", 
+      qualities: ["sweet"],
+      image: "https://t4.ftcdn.net/jpg/03/93/00/37/360_F_393003738_ZUGSxld5JsVt7BUVbpRIc7U1nTPFG8Zf.jpg"
+      },]
 
   return (
     <div className='App'>
