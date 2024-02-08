@@ -1,0 +1,32 @@
+li {
+    list-style: none;
+}
+
+.fruit-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.fruit-container>h1 {
+    font-size: medium;
+}
+
+.fruit-list {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+
+}
+
+.fruit {
+    margin: 10px;
+    padding: 10px;
+
+    border: 1px solid #ccc;
+    border-radius: 5px;
+
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}

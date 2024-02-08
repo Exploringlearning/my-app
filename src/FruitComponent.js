@@ -1,3 +1,4 @@
+import './fruits.css';
 import { fruits } from './data/fruits';
 import Fruit from './Fruit.js';
 
